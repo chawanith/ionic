@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Habib/Desktop/IonicProject/platforms/android/platform_www/cordova_plugins.js",
+        "C:/Users/Habib/Desktop/IonicProject/platforms/android/platform_www/plugins/cordova-plugin-camera/www/CameraPopoverHandle.js",
+        "C:/Users/Habib/Desktop/IonicProject/platforms/android/platform_www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js",
+        "C:/Users/Habib/Desktop/IonicProject/platforms/android/platform_www/plugins/cordova-plugin-device/www/device.js"
+    ]
+}
