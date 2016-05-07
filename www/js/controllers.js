@@ -23,7 +23,10 @@ angular.module('starter.controllers', [])
 
 
 .controller('CameraCtrl', function($scope, $cordovaCamera) {
-  $scope.pictureUrl = 'http://placehold.it/300*300';
+  
+    
+   
+  $scope.pictureUrl = ' http://placehold.it/300x300';
     
   $scope.takePicture = function() {
       var options = {
@@ -42,6 +45,8 @@ angular.module('starter.controllers', [])
       });
   };    
 })
+
+
 
 
 
