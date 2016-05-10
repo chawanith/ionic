@@ -24,7 +24,7 @@ angular.module('starter.controllers', [])
 
 .controller('CameraCtrl', function($scope, $cordovaCamera) {
   
-  document.addEventListener("deviceready", function () {
+  
   
    
   $scope.pictureUrl = ' http://placehold.it/300x300';
@@ -45,7 +45,7 @@ angular.module('starter.controllers', [])
           console.log('camera error: ' + angular.toJson(data));
       });
   };
- }, false);      
+     
 })
 
 
